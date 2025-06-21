@@ -1,0 +1,305 @@
+Created by me (millions have hours wasted) 
+
+(good)
+name=sitting_guard_loadak_idle from=roadkill description=Chair style sitting, looking around, picking at the grass 
+name=patrol_bored_patrolwalk from=airport description=Walking around with a gun looking left and right 
+name=patrol_bored_walk_2_bored from=airport description=Walking/looking then stopping then looking 
+name=patrol_bored_idle from=airport description=Standing w/gun and looking around 
+name=patrol_jog_look_up_once from=airport description=frantically running/crouched then pointing gun at sky looking left and right
+name=bleedout_crawlb from=airport description=holding chest w/ right hand while siding crawling with left
+name=bog_b_guard_react from=airport description=holding gun w/left while right arm covers face from debris explosion 
+name=pistol_walk_right from=airport description=walking fastly with pistol aiming down sights with pistol, semi crouched
+name=casual_killer_flinch from=airport description=same as bog_b_guard react except walks after shielding face
+name=casual_killer_walk_point from=airport description=holding gun with left hand while walking and pointing at someone
+name=casual_killer_wave from=airport description=using hand signals while walking and showing people where to go. giving orders
+name=airport_civilian_run_turnr_90 from=airport description=running falling on ground then getting off ground while running (shit)
+name=airport_elevaator_sequence_guy2 from=airport description= inspecting gun, grabbing some dudes neck, turning head back, then walking off 
+name=airport_elevaator_sequence_guy1 from=airport description= inspecting gun then getting choked by assuming guy 2 then walking off
+name=casual_killer_walk_r from=airport description= walking while turned to the right and holding pistol
+name=dc_burning_bunker_react from=airport description=holding face while sitting on the ground bc something hit his head
+name=dc_burning_bunker_react from=airport description=holding face while walking alongside wall then sitting down
+name=airport_elevaator_sequence_guy3 from=airport description= inspecting gun, then looking up surprised at guy 1 getting choked 
+name=airport_elevaator_sequence_guy4 from=airport description= inspecting gun, cracking neck back, checking gear, get surpised at choked guy, nodding, walking off then looking to the right, stops, the holds gun
+name=helicopter_pilot_twitch...(related) from=airport description= sitting inside a helicopter, looking over shoulder and touching buttons
+name=little_bird_dismount+mount... (related) from=airport description= jumping off or onto a helicopter is some way or fashion 
+name=little_bird_mount_guy3 from=airport description= crouched w/gun, then standing up, running kinda cool, getting onto heli
+name=cornerstndr_alert_signal_enemy_spotted from=airport description= pushed up against wall or corner, signaling with 2 fingers, enemy spotted, holding gun
+name=little_bird_alert_idle_guy3 from=airport description= sitting on something pointing gun, sweaing left and right
+name=airport_ending_climbin_soldiera from=airport description=standing still, slight node, walking w/ gun, grabbing rope, stepping onto something, looking out over ledge or something
+name=airport_security_guard_2 from=airport description= running while holding ear piece then getting shot into a death anim 
+name=stand_exposed_wave_halt_v2 from=airport description= holding gun w/ right hand, showing open hand wave halt with left hand, like military hand signals 
+
+name=breach_react_guntoss_v2_guy2 from=oilrig description= catching gun that someone is throwing him 
+name=takedown_room2b_hostagea from=oilrig description=on knees hands tied behind back, looking around, someone comes from behind, lays hostage on stomach
+name=breach_react_desk_v4 from=oilrig description=holding gun with right hand and using left hand to vault over something ( I think used in told ya by bimjo )
+name=takedown_room2a_soilder_end_idle from=oilrig description= guy crouched holding gun w/ right hand, left hand holding hostage
+name=takedown_room2a_soilder from=oilrig description= running into room with gun then taking hostage down with left hand
+name=takedown_room1alt_hostage from=oilrig description= hostage standing up and being taken to knees then to stomach by marine
+name=execution_onknees_hostage from=oilrig description= hostage on knees looking over shoulder hand tied behind back
+name=execution_onknees_hostage_survives from=oilrig description= hostage on knees, hands tied behind back, looking down 
+name=execution_onknees_hostage_death from=oilrig description= hostage on knees, hands tied behind back, getting shot in head ( commonly seen in editing videos )
+name=execution_onknees2_soilder from=oilrig description= kicking something, then cocking gun, shooting, then taking on fire from somewhere else while ducking/ jucking 
+name=execution_slamwall_solider from=oilrig description= grabbing solider deck, holding against wall, shooting in head with pistol 
+name=execution_slamwall_hostage from=oilrig description=standing, getting grabbed in neck
+name=execution_knife_soilder from=oilrig description= literally slicing someones neck 
+name=bh_6_drop from=oilrig description= 1 hand holding onto something, kinda crouched, looks stupid, then running over to rope, sliding down it, then taking aim
+
+name=little_bird_aim_idle_guy2 from=boneyard description= sitting on the edge of something scoping in on things with gun
+name=run_lowready_f_relative from=boneyard description= pretty cool running anim with gun, solider 
+name=helicopter_pilot1_twitch_lookback from=boneyard description= sitting in a heli, turning over shoulder, inside cockpit
+name=ai_attacked_german_shepherd_05_death_a from=boneyard description= guy laying on back, hands defending face while dog attacks  
+name=ai_attacked_german_shepherd_03_push_a from=boneyard description= guy pushing dog off him, then standing up and running
+name= from=boneyard description= dog/german shephard anims can all be found on boneyard  
+
+name=snowmobile_passenger_mount_dir1_short from=cliffhanger description= holding gun with right hand, stepping over seat, left hand on shoulder of driver, mounting snowmobile 
+name=snowmobile_passenger_driving_swayr_01 from=cliffhanger description= holding gun w/ right hand, hitting a bump, left hand on shoulder of driver, slightly leaned forward
+name=cqb_runin_r1 from=cliffhanger description= running gun low, then running to left, then standing ads
+name=cqb_stand_react_a from=cliffhanger description= low crouched with gun, look left then standing. quickly lifting up then ADS
+name=cliffhanger_hanger_enter from=cliffhanger description= waving ppl to run over, put gun away, kneeling then fixing something 
+name=cliffhanger_hanger_wavea from=cliffhanger description= crouched on the ground waving ppl to come over while ads
+name=cliffhanger_hanger_waveb from=cliffhanger description= some thing as A
+name=launchfacility_b_wentwalk_v2_cyclea from=cliffhanger description= walking crouched with gun, slighty hunched sneaking pretty cool 
+name=launchfacility_b_wentwalk_v2_start from=cliffhanger description= start crouched looking back then crouched walk into this ^
+name=bmp_exit_1 from=cliffhanger description= jumping out bmp then crouching after
+name=grenade_return_running_kick_forward_2 from=cliffhanger description= kicking something forward while holding a gun
+name=grenade_return_standing_throw_forward_2 from=cliffhanger description= gun in right hand, slightly running, with left hand, grab nade and underhand toss it forward
+name=cliffhanger_capture_price_idle from=cliffhanger description= standing, surrender, hand in air 
+name=cliffhanger_cold_gunup_idle from=cliffhanger description= cold sneaking w/gun, slightly crouched, sneaking looking around
+name=sneaknight_pilot_switches from=cliffhanger description= sitting inside cockpit touching buttons with right hand
+name=ch46_load_1 from=cliffhanger description= uncrouching then running off with gun
+
+name=launchfacility_a_at4_fire from=contingency description= running ADS stop running, pull out RPG, aim at something in the sky, fire, pull out normal gun
+name=contingency_rocket_moment from=contingency description= run with gun then neal down, take out rocket launcher, shoot over shoulder, pull out gun while crouched, then run off 
+name=contingency_price_slide from=contingency description= go from laying down on stomach, to standing up w/gun, jumping onto something then sliding while shooting down a hill, bumpy
+name=patrolwalk_cold_gunup_twitchb from=contingency description= pretty cool sneak walking with a gun then taking left arm to rube cold right arm 
+name=patrolwalk_cold_gunup_twitcha from=contingency description= another sneaking in the cold with a gun. rubbing back of neck with left hand, also decently cool sneak scene
+name=contengency_price_intro from=contingency description= jogging with gun, talking to someone on headset while holding ear piece, looking up, then kneeling while talking and holding ear piece, then standing and ads while walking  
+name=afgan_caves_intro_stop from=contingency description= sneaking then quickly kneeling with a fist to signal to other soldiers to stop moving then ads'ing while crouched
+name=patrolwalk_cold_gunup_idle from=contingency description= sneaking while slowing walking looking left and right through a cold forest (pretty cool)
+name=patrolwalk_cold_gunup_transition from=contingency description= sneaking slightly crouched then standing fully up, taking orders from something on a ear piece
+name=hunted_pronehide_2_stand_v4 from=contingency description= rolling w/gun on the ground, seen in Bimjos told ya edit (car scene) stands up then runs
+name=stand_exposed_wave_go from=contingency description= holding gun with right hand, signaling with left hand, moving up and down, like pulling something 
+name=cornerstndr_alert_signal_stopstay_down from=contingency description= slightly crouched, stationary, telling people with left hand, to stop moving 
+name=stand_exposed_wave_halt from=contingency description= standing up right, holding ads gun with right hand, holding fist in air on left hand 
+name=cqb_stand_signal_move_up (and similar) from=contingency description= aiming down sights with right hand and signal a lower wave with left, standing still 
+( some of these got messed up and are actually inside cliffhanger ^ )
+
+name=hunted_spotter_twitch from=dcburning description= still kneeling on the ground with gun looking to the left and right
+name=breach_sh_breacherl1_enter from=dcburning description= standing still while pump shotgunning someone 3 times, kicking down a door, leaning up against a wall, then swinging around the corner 
+name=wounded_carry_fastwalk_wounded from=dcburning description= wounded solider getting carried on someones shoulder 
+name=wounded_carry_fastwalk_carrier from=dcburning description= the guy carrying the wounded soldier 
+name=wounded_carry_putdown_closet_wounded from=dcburning description= getting layed on the ground after being carried on shoulders
+name=exposed_crouched_idle_twitch from=dcburning description= crouched ads then reloading  
+name=hunted_spotter_wave_chat from=dcburning description= kneeling, using fingers piece sign to signal, uncrouching then jogging
+name=sniper_escape_spotter_wave from=dcburning description= laying on stomach, looking through goggles, nodding, then waving someone over 
+name=bunker_toss_guy2 from=dcburning description= walking while carrying a gun, tossing it down to someone, jogging away while looking back
+name=bunker_toss_guy1 from=dcburning description= sitting then looking up, catching gun, standing up, check chamber, then walking off (pretty cool)
+name=roadkill_cover_radio_soldier2 from=dcburning description= kneeling down while talking on the radio or phone
+name=roadkill_cover_spotter from=dcburning description= standing looking through goggles, seeing something, then kneeling down for cover, then sitting down, then standing back up again 
+name=civilian_run_2_crawldeath from=dcburning description= running getting shot in the neck, falling, then crawling on stomach 
+name=dc_burning_stop_bleeding_medic from=dcburning description= running over with gun, kneeling, helping injured person, looking left and right, waving people over to help him
+name=dcburning_bhrescue_soldier2_giveammo from=dcburning description= laying on side w/gun, then looking above cover, shooting, then laying back down
+
+name=estate_chopper_sequence_enemy1 from=estate description= slowing leaning left with gun, then leaning back, then walking off looking left and right, put gun away
+name=estate_chopper_sequence_soldier from=estate description= closing huge door or something heavy, taking out gun, then getting shot (last part is sick)
+name=seaknight_pilot_twitch from=estate description= sitting in cockpit leaning over talking to guy next to him 
+name=seaknight_copilot_switches from=estate description= with left hand punching in buttons 
+name=estate_ghost_radio from=estate description= holding gun while slowing walking and talking on the radio
+name=estate_house_photoshoot from=estate description= slow walking through a house scanning, gun shouldered but not ads
+name=favela_chaotic_cornercrl_fire_mid from=estate description= standing up Rambo style, shooting everyone in front of him, then crouching back down
+
+name=gulag_rescueb_soldier1 from=gulag description= idle standing with pistol then sneaking forward with pistol, stopping, looking left and right, then running
+name=gulag_rescueb_soldier2 from=gulag description= carrying something, looking left and right, picking up gun from ground, then running off
+name=gulag_end_dustcover_soldier from=gulag description= covering face from dust, then slowly running away  
+name=gulag_end_soap_idle from=gulag description= standing on the ear piece headset on phone 
+name=gulag_end_beginning_solider from=gulag description= running forward w/gun, stopping looking around, then running off again
+name=gulag_end_beginning_price from=gulag description= running w/gun, stopping, ads left and right, then running off again
+name=execution_fightback_guy1_03 from=gulag description= getting knocked around then pulling out a pistol and shooting someone 
+name=execution_fightback_guy2_03 from=gulag description= guy with hands behind back fighting someone
+name=gulag_cafeteria_price from=gulag description= running w/gun, stopping, ads left and right, knocked over by explosion then looking at plane go by
+name=gulag_cafeteria_solider from=gulag description= taking cover then watching something in the sky go by franticly 
+
+name=dcemp_door_sequence_foley_wave from=dcemp description= standing stationary waving soldiers to come over, holding gun
+name=dcemp_whitehouse_briefing_marshall from=dcemp description= on 1 knee, looking through googles, yelling and pointing 
+name=dcemp_whitehouse_briefing_foley from=dcemp description= getting on 1 knee, staying low and looking around, with gun, then standing, and waving ppl over
+name=dcemp_react_guyb_react from=dcemp description= lying down, then covering head, getting to kneeling position, holding gun, looking over shoulder 
+name=dcemp_react_guya_react from=dcemp description= typing into console on ground, kneeling with 1 knee, cover head, then standing up leaning against wall, with gun 
+name=corner_standr_explosion_divedown from=dcemp description= standing, then looking, then diving to the ground from something
+name=corner_standr_explosion_standup from=dcemp description= laying down, then standing up w/gun, then running to lean against a wall
+name=run_react_duck_non_loop from=dcemp description= running w/gun while dodging, slightly crouched, then keeps running
+name=run_react_flinch_non_loop from=dcemp description= running crouched, looking left and right, holding gun
+name=breach_kick_kickerr1_enter from=dcemp description= kick open door, lean up against wall, roll off wall, then run away, with gun 
+name=scount_sniper_price_wave from=dcemp description= on 1 knee, aiming down sights, looking behind, waving to direction, uncrouching, then running 
+name=doorburst_wave from=dcemp description= taking a step up, kicking door down, turning around, waving, then running after 
+name=stand_exposed_wave_down from=dcemp description= standing ads, w/gun, putting handout, waving to keep it down 
+name=cqb_stand_react_e from=dcemp description= slow sneaking, looking left, then standing up still, then quickly seeing something, then ADS quickly 
+name=cqb_stand_react_a from=dcemp description= same thing as above ^ 
+name=stand_exposed_wave_on_me_v2 from=dcemp description= standing ads, pointing finger in sky, waving it around, then pointing it at the ground 
+name=stand_exposed_wave_target_spotted from=dcemp description= standing ads, leaning over slightly, identifying, target, using peace sign, eye to eye, then pointing
+name=run_react_stumble_non_loop from=dcemp description= running, then slightly falling, breaking fall with hand, holding gun, gaining control, then running again, (seen in tons of videos)
+name=favela_run_and_wave from=dcemp description= sitting, then standing up and running, turning around then waving, then running again, (seen in tons of videos)  
+
+name=favela_ending_soldier from=favela description= running alittle, then jumping forward (stomach down), landing on side of arm, getting up kneeling holding pistol ads
+name=favela_torture_sequence_soldier2 from=favela description= slightly crouched with hands on something, falling to knees, then standing up cooly while looking back, no gun
+name=favela_van_shootout_guy4 from=favela description= driving, getting out of car, sneaking around the car, taking out pistol, then getting shot 
+name=favela_opening_driver_death from=favela description= driving, looking to the right, taking on fire, then getting shot in head 
+name=favela_chaotic_cornerr_grenade from=favela description= grabbing nade, pulling in, then tossing it, side throwing it 
+name=favela_chaotic_cornerl_grenade from=favela description= standing still, pulling pin, tossing nade around corner 
+name=favela_chaotic_(and so on) from=favela description= these are all crazy chaotic fighting scenes, very aggressive shooting (alot to go through) 
+
+(not moving/slight movement)
+name=russian_swat_van_guyr2_idle from=airport description=standing still holding a rife 
+name=breach_flash_r1_idle from=oilrig description= aiming down sights, standing, doesn't look at cool
+name=breach_flash_r2_idle from=oilrig description= standing ready, gun by his side, cool looking 
+name=little_bird_prelanding_idle_guy2 from=oilrig description= sitting legs out, on a helicopter or something (ugly)
+name=little_bird_casual_idle_guy1 from=oilrig description= sitting on judge of something, looking over edge, holding gun, pretty cool
+name=little_bird_alert_idle_guy1 from=oilrig description= sitting on something, ads, looking left and right 
+name=snowmobile_passenger_aim4r from=cliffhanger description= sitting on back of snowmobile leaning to the right holding a gun, not moving at all
+name=snowmobile_passenger_aim5r from=cliffhanger description= sitting on back of snowmobile leaning over shoulder 
+name=cliff_hero1_pose_b or similar from=cliffhanger description= all pretty sick completely still cliff hanging anims 
+name=bm21_guy_idle from=contingency description= idle sitting anim, in a chair, arms on legs/knees, leaning forward
+name=cargoship_stunned_coffee_react_idle from=contingency description= sitting looking right while holding a cup of coffee (completely still)
+name=parabolic_guard_sleep_idle from=contingency description= laying on back sleeping with hands on lap/crossed 
+name=breach_sh_breacherl1_idle from=dcburning description= idle aiming down sights 
+name=favela_van_shootout_guy1_aimidle from=favela description= completely still, slightly crouched, holding a pistol ads 
+
+name= from=invasion description= most/nearly all anims crash my game
+name= from=roadkill description= most/nearly all anims crash my game
+name= from=arcadia description= nearly all the arcadia anims are completely useless
+name/similar names=player_icepicker_left_high_wrist_in from=cliffhanger description= all these anims or similar do not work, these r for something else (not climbing)
+
+(useless) 
+name=uaz_driver_enter_from_huntedrun from=airport description=getting into some sorta car and sitting down
+name=uaz_driver_exit_into_stand from=airport description=get out of car and stand along side it with gun ready
+name=uaz_passenger_exit_into_stand from=airport description= get out of car stand with back agaist car with gun
+name=cornstndr_alert_signal_move_out from=airport description=pushed up against wall, holding gun w/ right hand, signaling w/ left and looking
+name=patrol_jog_360_once from=airport description= running, stop. look over left shoulder, running while looking right
+name=airport_ending_wave_makarov from=airport description=standing on ledge, coaxing someone to jump over to them
+name=patrol_bored_react_walktop from=oilrig description= reacting to something then taking aim
+name=breach_react_blowback_v1 from=oilrig description= getting knocked down the crawling 
+name=hostage_stand_react_front from=oilrig description= standing hostage, walking left and right, hands tied behind back, ducking for cover, then standing backup
+name=breach_flash_r1_enter from=oilrig description= running while aiming down sights, running diagonal, semi crouched
+name=breach_flash_r2_enter from=oilrig description= re-adjusting hand on gun, then running into room, aiming down sights, ( pretty shitty ) 
+name=little_bird_premount_guy3 from=oilrig description= running w/ gun, turning head left and right, then crouching while aiming down sights 
+name=uaz_lguy_fire_side_v2 from=boneyard description= sitting in a car, shooting out a window, reloading 
+name=uaz_lguy_fire_hide_back_v2 from=boneyard description= shooting out a window, semi standing up, leaning shooting out the window  
+name=snowmobile_passenger_aiming_bump_02 from=cliffhanger description= riding on back of snowmobile taking a bump in the road 
+name=cliffhanger_crash_rescue_price from=cliffhanger description= running no gun, then picking something up and giving it to someone 
+name=cliffhanger_capture_price_pullout from=cliffhanger description= solider hands in the air, quickly pull out pistol, then ADS 
+name=cqb_stand_shout_a from=cliffhanger description= ads yelling "get on the ground!" 
+name=cliffhanger_jump_price_reach from=cliffhanger description= hanging onto rope with left hand and holding someone with right, crouched
+name=patrolwalk_cold_crossed_stand2walk from=cliffhanger description= walking with arm crossed in the cold weather 
+name=cliffhanger_casual_crouch_exit from=cliffhanger description= from crouched to crouch walking ads
+name=cliffhanger_climb_up_start from=cliffhanger description= walking alongside a close wall then taking out ice picks then starts climbing
+name=cliffhanger_climb_up_mid from=cliffhanger description= using icepicks to climb up a wall
+name=launchfacility_teargas_1 from=contingency description= hit with something in the chest, fall to knees, grasp for air because of gas 
+name=launchfacility_teargas_3 from=contingency description= lean agasint table then fall to ground because of gas 
+name=bm21_guy8_climbout from=contingency description= sitting down, kicking door open, puts hand on edge of car, jumps out 
+name=shotgun_stand_pullout from=contingency description=put gun away, take a gun out from over shoulder, then aim down sights 
+name=bh_2_beginning from=contingency description= sitting on a chair, then standing up and grabbing a rope
+name=patrolwalk_cold_crossed_stand2walk from=contingency description= standing crossed arm taking 1 step
+name=uaz_rear_driver_death from=contingency description= sitting in a chair getting shot then shlumping over 
+name=sitting_guard_loadak_react1 from=contingency description= go from sitting to quickly grabbing gun on side then standing while ads
+name=uaz_passenger_death from=contingency description= sitting in a chair getting shot
+name=parabolic_guard_sleeper_react from=contingency description= laying on back sleeping, then falling, grabbing gun, then standing up (last part could be used) 
+name=patrolwalk_bored_react_walkstop_short from=contingency description= quickly react pull gun up to ads looking left and right 
+name=patrol_boredrun_find from=contingency description= running over, crouching picking something up, standing up, quickly looking left and right, waving someone over 
+name=patrol_boredjog_find from=contingency description= pretty much the same as this ^
+name=patrol_boredwalk_find from=contingency description= chill walking with gun, looking at something on the ground, waving people over 
+name=patrol_boredwalk_react_look)advance from=contingency description= getting scared while holding gun then quickly ads'ing
+name=breach_sh_stackr1_enter from=dcburning description= stomping/jogging ads storming into a room 
+name=dc_burning_artillery_reaction_v2_react_a (and similar) from=dcburning description= sitting injured while holding neck with left hand slightly moving
+name=laptop_sit_idle_calm from=dcburning description= sitting while typing on a laptop
+name=javelin_death_1 from=dcburning description= sitting in a chair getting shot back
+name=gulag_slamraam_tarp_pull_guy2_v1 from=dcburning description= putting gun away, then grabbing, rope or tarp, pulling it off quickly
+name=dcburning_bhrescue_soldier1_loop from=dcburning description= kneeling down then peaking over a ledge while looking forward (kinda stupid)
+name=dcburning_bhrescue_soldier2_loop from=dcburning description= laying on side, peaking over ledge in front of him, aiming right and left, unpeaking laying back down
+name=dcburning_bhrescue_soldier2_fighting from=dcburning description= inside some sorta trench, kneeling, while taking on fire, laying on back reloading shotgun 
+name=dcburning_bhrescue_soldier1_giveammo from=dcburning description= kneeling then standing up, grabbing ammo from vest, then under hand throwing the ammo to him, look left 
+name=gulag_slamraam_tarp_idle_guy2_v1 from=dcburning description= typing in some sorta code to a door with a panel 
+name=doorpeek_open from=dcburning description= slowly opening a door then leaning to see around corner 
+name=doorpeek/similar from=dcburning description= nearly all bugged into a T pose
+name=little_bird_death_guy1 from=dcburning description= falling out of something
+name=stinger_react_crouch from=dcburning description= kneeling then standing up with gun, weird rotation
+name=stinger_react_stand from=dcburning description= double take while holding a gun and looking up at the sky 
+name=dcburning_elevator_corpse_trans_a_2_b from=dcburning description= slightly rolling over dead 
+name=dc_burning_artillery_reaction_v3_react_b from=dcburning description= sitting on ground, using hand to hammer ground, then brushing dust off head 
+name=training_humvee_solider from=dcburning description= running over, grabbing something, moving it onto the ground, then fixing it while looking left and right, (could be cool)
+name=humvee_turret_flincha from=dcburning description= shooting stand up gun with 2 hands, dodging a bullet
+name=estate_ending_gasoline_guy from=estate description= picking up gas can, dumping the gas, walking back, sitting onto something
+name=estate_body_toss_guy1 from=estate description= picking up a body with another person then throwing it
+name=favela_chaotic_crouchcover_firea from=estate description= spraying over a ledge or covering 
+name=gulag_end_run2gate_solider from=gulag description= running to something, then trying to carry something heavy, then running off
+name=dcemp_btr_moment_guy1 from=dcemp description= trying to climb up something then dying 
+name=dcemp_run_sequence_runner from=dcemp description= running over to someone out of breathe, standing talking, then running away again, werid side to side shit 
+name=flare_moment_stand from=dcemp description= running over then standing, cracking a flare, waving it above head 
+name=invasion_vehicle_cover_dislogue_guy1 from=dcemp description= kneeling on 1 knee, bumping up and down like a car, laying on back, then standing up and running 
+name=shotgunbreach_door_immediate from=dcemp description= T pose
+name=cargoship_open_cargo_guy1 from=dcemp description= opening door, taking gun out then leaning against wall 
+name=combatwalk_f_spin from=dcemp description= walking ads, circleing, looking at sky
+name=freerunnera_loop from=dcemp description= no gun, running, looping, normal ah run
+name=favela_escape_bigjump_faust from=dcemp description= running then jumping off something, landing, breaking fall/kneeling, then pulling out a pistol while kneeling 
+name=dcemp_fly_getagrip from=dcemp description= T pose saying something 
+name=cqb_stand_signal_move_out from=dcemp description= standing, semi squatted, ads, pointing figure towards enemy 
+name=death_rooftop_a from=favela description= standing getting shot in the head then falling over 
+name=favela_ending_runner from=favela description= running no gun while looking back, slightly crouched
+name=civilian_smoking_b from=favela description= person standing while smoking, talking, and looking around
+name=civilian_hackey_guy1 from=favela description= person playing hacky sack with someone else
+name=favela_van_shootout_guy1_runaway from=favela description= holding pistol ads, then un-ads'ing and turning running away
+name=invasion_humvee_exit_v1_guy1_react from=invasion description= sitting down, then standing up, then getting knocked over 
+name=invasion_parachute_ground_detach_death from=invasion description= trying to get something off chest, then getting shot 
+name=invasion_parachute_ground_detach_reaction from=invasion description= trying to get something off chest, then turning around
+
+(Fav Models)
+from=airport head_us_army_a | body_ua_army_assault_a description= light grey, tac army, no night vision, goggles off, glasses on, facemask on 
+head_shadow_co_c description= goggles on helmet, solid light grey, nothing covering eyes, facemask on, no night vision
+head_shadow_co_b description= goggles on eyes, mask on, night vision, light green, with microphone 
+body_shadow_co_lmg description= heavy/tank body armor, darker blue and light brown, neck cover 
+body_shadow_co_smg description= tactical vest, darker blue and brown, pretty sick, looks like tarkov
+body_shadow_co_shotgun description= slightly different from "smg"
+body_shadow_co_assault description= slightly different from "smg"
+body_opforce_merc_assault_a description= autumn colors, red, green, brown, forest type guy
+body_opforce_merc_assault_c description= autumn colors, red, green, brown, forest type guy
+body_opforce_merc_assault_b description= same as above but blue, write, and black
+body_opforce_merc_shotgun_b description= autumn colors, red, green, brown, forest type guy
+body_airborne_assault_a description= darker brown, tactical, indoor.outdoor, light armor 
+body_airborne_assault_b description= darker red, tactical, indoor.outdoor, light armor 
+body_airborne_lmg_c description= heavy armor, brown chest armor and red pants camo
+body_airborne_lmg_b description= heavy armor, red chest armor, all red camo
+body_airborne_assault_c description= camo red upper, brown pants, light weight tactical 
+head_airborne_d description= chad with black helmet, no mask, goggles on, no vision on head folded up
+head_airborne_e description= ugly big nose with black helmet, no mask, goggles on, no vision on head folded up
+head_airborne_a description= mask and goggles on, black helmet, night vision above helmet 
+head_opforce_fsb_a description= pretty clunky black helmet, mask and goggles on face
+head_hero_ghost_forest description= ghost mask, black glasses, headset on, tactical ghost looking 
+head_hero_price_desert description= good looking chad, beard, cool at, desert theme
+head_opforce_fsb_b description= mask on with glass face covering over, looks like police lowkey, black helmet 
+head_hero_dunn description= decent face, cool ass helmet with night vision, flash light on side, pretty sick ngl
+head_hero_foley description= black guy cool, no mask, goggles on helmet, pretty sick aswell, diverse 
+head_opforce_arab_a description= cool white towel head, towel wrapped around head 
+head_opforce_arab_b description=light grey towel head with white band around head
+head_opforce_arab_d_hat description= Indian dude with sick ass glasses on
+head_hero_ghost_soccom description= light brown ghost mask with headset and glasses
+head_hero_ghost_soccom_a description= mohawk gigga chad, scar on face, beard, hard ass lookin white dude 
+body_hero_ghost_socom description= sick af light brown tactical af light weight body armor (super cool)
+body_hero_soap_socom description= sick, short sleeve shirt, light weight tactical, pretty fricken sick, jeans 
+body_airport_com_c description= fancy tactical suit armor thing, dark blue upper, brown dress pants 
+body_secret_service_assault_a description= fancy blue, tactical vest, red tie 
+body_airport_com_a description=  all black nice suit with tactical vest pretty sick 
+body_airport_com_d description=  all dark grey nice suit with tactical vest pretty sick 
+body_airport_com_b description=  all light brown nice suit with tactical vest pretty sick 
+body_secret_service_smg description= fancy blue, tactical vest, red tie 
+head_us_army_c description= black dude, smile, tactical glasses, decent and diverse 
+head_us_army_d description= white dude, smile, no mask no goggles, goggles on helmet (not diverse)
+head_opforce_arctic_b description= beanie, bearded dude, goggles on beanie, cool face, mid 40's 
+head_opforce_arctic_a description= white face covered with full mask and goggles on  
+head_seal_udt_d description= all black mask, no goggles, mic'ed up, decent, black 
+head_seal_udt_a description= all black mask with night vision on top of head
+head_hero_soap_udt description=gigga chad with stripes on his face 
+head_opforce_arctic_c description= luke skywalker in the gold hoth scene typa hoodie, furr
+head_opforce_arctic_d description= full white mask covered, goggles on 
+head_op_arctic_sniper description= towlet head, American style, whiter with design 
+head_hero_price_gulag description= early 50's dude with a beard and beanie 
+head_opforce_merc_c description= normal face with decent looking headset on  
+head_sp_usmc_force_chad description= no mask, goggles on, single night vision above head. older looking style 
+head_sp_opforce_fullwrap_body... = white towel head 
